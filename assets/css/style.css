@@ -45,7 +45,7 @@ Version: 1.0.0
 -----------------*/
 @import url("https://fonts.googleapis.com/css2?family=Fira+Sans:wght@100;200;300;400;500;600;700&family=Poppins:wght@300;400;500;600;700;800&display=swap");
 :root {
-  --main-color: #ff8e01;
+  --main-color: #5E35B1;
   --main-color-2: #5E35B1;
   --heading-color: #101010;
   --paragraph-color: #505050;
@@ -2615,7 +2615,7 @@ ul {
   color: #fff;
 }
 .banner-inner .title span {
-  color: var(--main-color);
+  color: #fff;
 }
 .banner-inner p {
   margin-top: 25px;
@@ -5099,7 +5099,7 @@ line-height: 14px;
 -moz-border-radius: 100px;
 border-radius: 100px;
 text-align: center;
-background: #ff8e01;
+background: var(--main-color);
 color: #fff;
 font-size: 12px;
 margin-right: 20px;
